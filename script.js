@@ -1,1 +1,1 @@
-console.log('test successful')
+let test = console.log('test successful')
